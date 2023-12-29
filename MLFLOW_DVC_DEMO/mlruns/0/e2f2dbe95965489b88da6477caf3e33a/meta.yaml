@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/e2f2dbe95965489b88da6477caf3e33a/artifacts
+end_time: 1700369046328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2f2dbe95965489b88da6477caf3e33a
+run_name: capable-moose-675
+run_uuid: e2f2dbe95965489b88da6477caf3e33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369046275
+status: 4
+tags: []
+user_id: mmanoj

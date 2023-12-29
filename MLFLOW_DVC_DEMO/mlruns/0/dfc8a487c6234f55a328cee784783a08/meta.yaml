@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/dfc8a487c6234f55a328cee784783a08/artifacts
+end_time: 1700369255168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfc8a487c6234f55a328cee784783a08
+run_name: handsome-sheep-695
+run_uuid: dfc8a487c6234f55a328cee784783a08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369255120
+status: 4
+tags: []
+user_id: mmanoj

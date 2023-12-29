@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/696ccfe3c1f54f29821d42e24bb7dc2c/artifacts
+end_time: 1700369334463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 696ccfe3c1f54f29821d42e24bb7dc2c
+run_name: rare-grub-272
+run_uuid: 696ccfe3c1f54f29821d42e24bb7dc2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369334416
+status: 4
+tags: []
+user_id: mmanoj

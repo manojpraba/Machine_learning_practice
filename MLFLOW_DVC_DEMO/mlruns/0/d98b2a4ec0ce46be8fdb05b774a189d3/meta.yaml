@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/d98b2a4ec0ce46be8fdb05b774a189d3/artifacts
+end_time: 1700369393083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d98b2a4ec0ce46be8fdb05b774a189d3
+run_name: angry-shrew-677
+run_uuid: d98b2a4ec0ce46be8fdb05b774a189d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369362724
+status: 4
+tags: []
+user_id: mmanoj

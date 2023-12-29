@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/197a4dd9b50b411a8671fb32bd95e101/artifacts
+end_time: 1700366707252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 197a4dd9b50b411a8671fb32bd95e101
+run_name: legendary-robin-316
+run_uuid: 197a4dd9b50b411a8671fb32bd95e101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700366707218
+status: 3
+tags: []
+user_id: mmanoj

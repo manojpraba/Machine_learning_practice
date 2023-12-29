@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/89f36f3815db4e4b92803ea5b51a1378/artifacts
+end_time: 1700369690152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89f36f3815db4e4b92803ea5b51a1378
+run_name: upbeat-pug-181
+run_uuid: 89f36f3815db4e4b92803ea5b51a1378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369690109
+status: 4
+tags: []
+user_id: mmanoj

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/4dde71e2d9ec48e38cb60e60bdfdd6bc/artifacts
+end_time: 1700369192789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dde71e2d9ec48e38cb60e60bdfdd6bc
+run_name: chill-midge-516
+run_uuid: 4dde71e2d9ec48e38cb60e60bdfdd6bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369192750
+status: 4
+tags: []
+user_id: mmanoj

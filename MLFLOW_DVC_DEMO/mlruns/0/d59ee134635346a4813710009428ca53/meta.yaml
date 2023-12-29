@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/d59ee134635346a4813710009428ca53/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d59ee134635346a4813710009428ca53
+run_name: overjoyed-roo-855
+run_uuid: d59ee134635346a4813710009428ca53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369813556
+status: 1
+tags: []
+user_id: mmanoj

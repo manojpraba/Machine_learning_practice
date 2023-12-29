@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml%20projects/MLFLOW_DVC_DEMO/mlruns/0/89615cf9dd2443c59df2c29b5fb03e58/artifacts
+end_time: 1700369625604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89615cf9dd2443c59df2c29b5fb03e58
+run_name: mysterious-shark-327
+run_uuid: 89615cf9dd2443c59df2c29b5fb03e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369625530
+status: 3
+tags: []
+user_id: mmanoj
